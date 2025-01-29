@@ -1,6 +1,6 @@
-const ciRules = require('./eslint-ci-rules.json')
+import ciRules from './eslint-ci-rules.json' with { type: 'json' }
 
-module.exports = (async function config() {
+export default (async function config() {
   const { default: defaultConfigPromise } = await import('./eslint.config.js')
   const defaultConfig = await defaultConfigPromise
   return [
