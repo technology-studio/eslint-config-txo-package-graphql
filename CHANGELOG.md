@@ -1,3 +1,15 @@
+## [1.0.87](https://github.com/technology-studio/eslint-config-txo-package-graphql/compare/v1.0.86...v1.0.87) (2025-09-29)
+
+
+### CI
+
+* add pr.yml permissions ([#102](https://github.com/technology-studio/eslint-config-txo-package-graphql/issues/102)) ([03b3767](https://github.com/technology-studio/eslint-config-txo-package-graphql/commit/03b37679f20a38c80c99ae8ff67da959fd14b2ee))
+
+
+### Bug fixes
+
+* **deps:** update dependency eslint-config-txo-typescript to ^7.4.110 ([#103](https://github.com/technology-studio/eslint-config-txo-package-graphql/issues/103)) ([d2fd1a5](https://github.com/technology-studio/eslint-config-txo-package-graphql/commit/d2fd1a549f041bc837aa322247813904374841e1))
+
 ## [1.0.86](https://github.com/technology-studio/eslint-config-txo-package-graphql/compare/v1.0.85...v1.0.86) (2025-09-17)
 
 
